@@ -34,6 +34,10 @@ Storage accounts include Blob and Table services, and the unique namespace for y
 	
 ## Next steps
 
+[Install and configure Azure CLI](azure-stack-connect-cli.md)
+
+[Install PowerShell and connect](azure-stack-connect-powershell.md)
+
 [Use Azure Resource Manager templates](azure-stack-arm-templates.md)
 
 [Learn about Azure storage accounts](../storage/storage-create-storage-account.md)
